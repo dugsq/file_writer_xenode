@@ -1,5 +1,3 @@
 ---
-enabled: true
-loop_delay: 5.0
 dir_path: "@this_node/inbound"
 file_mode: "a"
