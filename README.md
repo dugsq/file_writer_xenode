@@ -7,7 +7,7 @@ Writting file to the disk (where the Xnoede is hosted)
 ## Gems:
 none
 
-## Config:
+## Defult Config File:
 please refers to its [Default Config File](./config/config.yml)
 
 |name|type|default|description
