@@ -10,7 +10,6 @@ none
 ## Config:
 please refers to its [Default Config File](./config/config.yml)
 
-https://github.com/Nodally/file-writer-xenode/blob/master/config/config.yml
 |name|type|default|description
 |---|---|---|---|
 |**`dir_path`**| String | "@disk_dir/inbound" | path to save the file.
