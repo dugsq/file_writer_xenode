@@ -3,7 +3,7 @@
 # http://opensource.org/licenses/OSL-3.0
 
 class FileWriterXenode
-  include XenoCore::NodeBase
+  include XenoCore::XenodeBase
   
   # this method get call once as the Xenode is initialized
   # it is called inside the main eventmachine loop
