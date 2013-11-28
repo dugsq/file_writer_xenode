@@ -1,4 +1,4 @@
-file-writer-xenode
+File Writer Xenode
 =====================
 
 **File Writer Xenode** reads its input message context and writes the input message data to a specified local folder. The path to write the file to will be read from the input data context, and if one does not exist, it will use the path specified in the configuration file.
