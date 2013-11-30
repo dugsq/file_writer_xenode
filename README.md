@@ -1,6 +1,8 @@
 File Writer Xenode
 =====================
 
+Note: you will need the Xenograte Community Toolkit (XCT) to run this Xenode. Refer to the XCT repo [https://github.com/Nodally/xenograte-xct](https://github.com/Nodally/xenograte-xct) for more information.
+
 **File Writer Xenode** reads its input message context and writes the input message data to a specified local folder. The path to write the file to will be read from the input data context, and if one does not exist, it will use the path specified in the configuration file.
 
 ###Configuration file options:
